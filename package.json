@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.4.15",
+  "description": "calculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "balasubramanya",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-packager": "^12.2.0",
+    "electron-winstaller": "^2.7.0"
+  },
+  "dependencies": {
+    "asar": "^0.14.5",
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
